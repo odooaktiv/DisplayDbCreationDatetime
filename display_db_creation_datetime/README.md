@@ -5,7 +5,7 @@ Display Database Creation
 Version
 =======
 
-Odoo v11
+Odoo v10
 
 
 Installation
